@@ -1,0 +1,9 @@
+List: [45, 12, 89, 2, 33, 10]
+Two smallest: (2, 10)
+
+List: [100, -5, 0, 22, 8]
+Two smallest: (-5, 0)
+
+List: [7, 7, 7, 2, 9, 1]
+Two smallest: (1, 2)
+
