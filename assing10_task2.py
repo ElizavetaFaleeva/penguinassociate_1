@@ -1,6 +1,6 @@
 def main():
     """Run the main logic of the script."""
-    mixed_list = [10, "apple", 3.14, "banana", True, "cherry", None, [1, 2], "penguin67", "penguin??"]
+    mixed_list = [10, "orca4", "orca5" "apple", 3.14, "banana", True, "cherry", None, [1, 2], "penguin67", "penguin??", "orca1", "orca2", "orca31"]
 
     string_count = 0
     
