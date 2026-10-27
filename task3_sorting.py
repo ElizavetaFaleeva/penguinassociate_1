@@ -11,7 +11,7 @@ def custom_sort(int_list):
     for i in range(n):
         for j in range(0, n - i - 1):
             comparisons += 1
-            if sorted_list[j] < sorted_list[j + 1]:  #prosto pomenyala znak - teper rabotaet ne tuda, nado obratno
+            if sorted_list[j] > sorted_list[j + 1]:  
                 sorted_list[j], sorted_list[j + 1] = sorted_list[j + 1], sorted_list[j]
                 
     return sorted_list, comparisons
